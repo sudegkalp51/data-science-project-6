@@ -9,7 +9,7 @@ from tasks.task_manager import add_task, find_task_with_keyword, get_longest_tas
 # Kaizu ID'n — Profile → Settings → User ID
 # Skorunun Kaizu'ya gitmesi için 0 yerine kendi ID'ni yaz.
 # ─────────────────────────────────────────────
-USER_ID = 0  # ← BURAYI DEĞİŞTİR
+USER_ID = 868  # ← BURAYI DEĞİŞTİR
 
 
 def test_add_task():
